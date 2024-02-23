@@ -1,0 +1,2732 @@
+[
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Clear Oil",
+     "passive": "Alacrity",
+     "stats": "+30 to Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Sepia Oil",
+     "passive": "Beef",
+     "stats": "+30 to Strength"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Sepia Oil",
+     "passive": "Agility",
+     "stats": "+30 to Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Wisdom of the Glade",
+     "stats": "+30 to Intelligence"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Sepia Oil",
+     "passive": "Expertise",
+     "stats": "+30 to Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Thief's Craft",
+     "stats": "+30 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Prowess",
+     "stats": "+30 to Strength"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Proficiency",
+     "stats": "+30 to Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Ancestral Knowledge",
+     "stats": "+30 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Might",
+     "stats": "+30 to Strength"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Fending",
+     "stats": "12% chance to Knock Enemies Back on hit\n25% increased Knockback Distance\n(Knockback pushes Enemies away when Hit)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Hard Knocks",
+     "stats": "+30 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Physique",
+     "stats": "+30 to Strength"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Arcane Vision",
+     "stats": "+30 to Accuracy Rating\nLight Radius is based on Energy Shield instead of Life"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Diamond Skin",
+     "stats": "24% increased Armour\n+12% to all Elemental Resistances\n3% increased Movement Speed"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Path of the Savant",
+     "stats": "16% increased Spell Damage\n+20 to maximum Mana\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Amber Oil",
+     "passive": "Path of the Warrior",
+     "stats": "+50 to Armour\n+20 to Strength\n16% increased Physical Damage"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Path of the Hunter",
+     "stats": "+100 to Accuracy Rating\n16% increased Projectile Damage\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Righteous Decree",
+     "stats": "22% increased maximum Mana\n6% reduced Mana Cost of Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Ironwood",
+     "stats": "30% increased Totem Life\nTotems gain +20% to all Elemental Resistances\nTotems have 15% additional Physical Damage Reduction\n+100 Armour per Summoned Totem"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Fusillade",
+     "stats": "15% increased Attack Speed with Wands\n30% increased Accuracy Rating with Wands"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Quickstep",
+     "stats": "6% increased Attack Speed\n4% increased Movement Speed"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Weathered Hunter",
+     "stats": "+100 to Accuracy Rating\n15% increased Global Accuracy Rating\n+10% to all Elemental Resistances\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Cloth and Chain",
+     "stats": "24% increased Evasion Rating and Armour\n+12% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Solidity",
+     "stats": "Attack Skills deal 20% increased Damage while holding a Shield\n+8% Elemental Resistances while holding a Shield\n+3% Chance to Block Attack Damage while holding a Shield"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Aspect of the Eagle",
+     "stats": "20% increased Damage with Bows\n12% increased Global Accuracy Rating\n+10 to maximum Life\n4% increased Movement Speed\n20% increased Damage Over Time with Bow Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Dynamo",
+     "stats": "20% increased maximum Mana\nGuard Skills have 25% increased Duration\nRecover 20% of Mana over 1 second when you use a Guard Skill"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Decay Ward",
+     "stats": "Minions have +10% Chance to Block Attack Damage\nMinions have +10% Chance to Block Spell Damage\nMinions Recover 2% of their Life when they Block"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Thrill Seeker",
+     "stats": "15% increased maximum Mana\n0.4% of Attack Damage Leeched as Mana\n+10 Mana gained on Kill\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Aspect of the Panther",
+     "stats": "+3% Chance to Block Attack Damage while Dual Wielding\nAttack Skills deal 15% increased Damage while Dual Wielding\n6% increased Attack Speed while Dual Wielding\n20% increased Evasion Rating"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Verdant Oil",
+     "passive": "Spirit Void",
+     "stats": "0.8% of Attack Damage Leeched as Mana\n25% increased Maximum total Recovery per second from Mana Leech\n60% increased total Recovery per second from Mana Leech\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Poisonous Fangs",
+     "stats": "+10% to Damage over Time Multiplier for Poison\nClaw Attacks deal 20% increased Damage with Hits and Ailments\n10% increased Poison Duration\n10% chance to Poison on Hit with Attacks\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Saboteur",
+     "stats": "30% increased Trap Damage\n30% increased Mine Damage\nCan have up to 2 additional Traps placed at a time\nCan have up to 2 additional Remote Mines placed at a time"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Depth Perception",
+     "stats": "+100 to Accuracy Rating\n15% increased Global Accuracy Rating\n+20 to Dexterity\n25% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Elemental Focus",
+     "stats": "10% chance to Avoid Elemental Ailments\n10% increased Duration of Elemental Ailments on Enemies\n20% increased Elemental Damage\n20% increased Effect of Non-Damaging Ailments\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)\n(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Deep Wisdom",
+     "stats": "+20 to maximum Energy Shield\n+20 to maximum Mana\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Martial Experience",
+     "stats": "30% increased Physical Damage with Two Handed Melee Weapons\nAttacks with Two Handed Melee Weapons deal 30% increased Damage with Ailments\n100% increased total Recovery per second from Life Leech\nOverwhelm 12% Physical Damage Reduction\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Fury Bolts",
+     "stats": "10% increased Global Accuracy Rating\n10% increased Projectile Speed\n20% increased Projectile Damage\n+20 to Strength"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Battle Rouse",
+     "stats": "+15 to maximum Mana\n15% increased maximum Mana\n10% of Damage taken gained as Mana over 4 seconds when Hit"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Hasty Reconstruction",
+     "stats": "20% increased Trap Damage\n10% increased Cooldown Recovery Speed for throwing Traps\nSkills which Throw Traps have +1 Cooldown Use"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Sanctuary",
+     "stats": "+4% Chance to Block Spell Damage while holding a Shield\n+12% Elemental Resistances while holding a Shield\n+4% Chance to Block Attack Damage while holding a Shield"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Practical Application",
+     "stats": "25% chance to Avoid interruption from Stuns while Casting\n+25 to Strength and Dexterity"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Fangs of the Viper",
+     "stats": "20% increased Chaos Damage\n5% increased Movement Speed\n+20 to Dexterity\n20% increased Physical Damage"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Executioner",
+     "stats": "24% increased Physical Damage with Two Handed Melee Weapons\nAttacks with Two Handed Melee Weapons deal 24% increased Damage with Ailments\n50% increased Damage with Hits against Enemies that are on Low Life\n12% increased Area of Effect if you've Killed Recently\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Mind Drinker",
+     "stats": "18% increased maximum Mana\n0.4% of Attack Damage Leeched as Mana\nRecover 2% of Mana on Kill\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Indigo Oil",
+     "passive": "Exposure Tolerance",
+     "stats": "30% reduced Reflected Elemental Damage taken\n15% increased Elemental Damage"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Freedom of Movement",
+     "stats": "30% increased Evasion Rating\n5% chance to Dodge Attack Hits while Phasing\n10% increased Movement Speed while Phasing\n10% chance to gain Phasing for 4 seconds on Kill\n(While you have Phasing, your movement is not blocked by Enemies)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Dreamer",
+     "stats": "20% increased maximum Mana\n15% increased Mana Regeneration Rate\n5% reduced Mana Cost of Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Indigo Oil",
+     "passive": "Risk Awareness",
+     "stats": "30% reduced Reflected Physical Damage taken\n15% increased Physical Damage\n"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Aligned Spirits",
+     "stats": "15% increased maximum Mana\nMinions deal 20% increased Damage\n15% reduced Mana Cost of Minion Skills"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Arsonist",
+     "stats": "+6% to Fire Damage over Time Multiplier\n24% increased Fire Damage\nRegenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Weapon Artistry",
+     "stats": "+2% Chance to Block Attack Damage while Dual Wielding or holding a Shield\n10% increased Attack Speed\n+10 to Strength and Dexterity"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Unpredictable Offensive",
+     "stats": "5% chance to Dodge Attack Hits while Channelling\nChannelling Skills have 10% increased Attack Speed\n30% chance to Avoid being Stunned while Channelling"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Teal Oil",
+     "passive": "Mystic Bulwark",
+     "stats": "6% Chance to Block Spell Damage\n15% increased maximum Mana\n1% increased Mana Regeneration Rate per 1% Chance to Block Spell Damage"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Shamanistic Fury",
+     "stats": "25% increased Totem Damage\n25% increased Totem Placement speed"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Deep Thoughts",
+     "stats": "20% increased maximum Mana\n20% increased Mana Regeneration Rate\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Prodigal Perfection",
+     "stats": "10% increased Spell Damage\n15% increased maximum Mana\n2% increased Spell Damage per 100 Maximum Mana, up to 40%"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Sentinel",
+     "stats": "24% increased Evasion Rating and Armour\n+10% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Heavy Draw",
+     "stats": "20% increased Physical Damage with Bows\n10% reduced Enemy Stun Threshold with Bows\n30% increased Stun Duration with Bows on Enemies\n12% increased Area of Effect\n20% increased Damage Over Time with Bow Skills\n(The Stun Threshold determines how much Damage can Stun something)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Claws of the Magpie",
+     "stats": "Claw Attacks deal 20% increased Damage with Hits and Ailments\n10% increased Attack Speed with Claws\n25% chance to Steal Power, Frenzy, and Endurance Charges on Hit with Claws\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Harvester of Foes",
+     "stats": "Axe Attacks deal 20% increased Damage with Hits and Ailments\n10% increased Attack Speed with Axes\n12% increased Accuracy Rating with Axes\n10% increased Impale Effect\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Splitting Strikes",
+     "stats": "26% increased Physical Damage with Axes\nAxe Attacks deal 26% increased Damage with Ailments\n6% increased Attack Speed with Axes\nOverwhelm 12% Physical Damage Reduction\n+1 to Melee Strike Range with Axes\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Silent Steps",
+     "stats": "+200 to Evasion Rating\n20% increased Evasion Rating\n60% chance to Avoid Blind\n10% chance to Blind Enemies on Hit with Attacks\n(Blinded enemies have their Chance to Hit halved)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Explosive Runes",
+     "stats": "You can Cast an additional Brand\n20% increased Brand Damage\n20% increased Brand Attachment range\n(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Steelwood Stance",
+     "stats": "Staff Attacks deal 30% increased Damage with Hits and Ailments\n20% increased Armour\n+600 Armour if you've Blocked Recently\n+6% Chance to Block Attack Damage while wielding a Staff\n(Warstaves are considered Staves)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Efficient Explosives",
+     "stats": "25% increased Mine Damage\n15% reduced Mana Reservation of Skills that throw Mines\nMines have a 10% chance to be Detonated an Additional Time"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Totemic Zeal",
+     "stats": "30% increased Totem Placement speed\nSpells Cast by Totems have 6% increased Cast Speed\nAttacks used by Totems have 10% increased Attack Speed"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Bone Breaker",
+     "stats": "30% increased Physical Damage with Maces or Sceptres\nMace or Sceptre Attacks deal 30% increased Damage with Ailments\n12% increased Area of Effect\n+2 to Melee Strike Range with Maces and Sceptres\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Gemini",
+     "stats": "+4% Chance to Block Attack Damage while Dual Wielding\nAttack Skills deal 16% increased Damage while Dual Wielding\n6% increased Attack Speed while Dual Wielding\n12% increased Accuracy Rating while Dual Wielding"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Expeditious Munitions",
+     "stats": "20% increased Trap Damage\n30% increased Trap Trigger Area of Effect\n10% increased Trap Throwing Speed"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Razor's Edge",
+     "stats": "+10% to Damage over Time Multiplier for Bleeding\n30% increased Physical Damage with Swords\nSword Attacks deal 30% increased Damage with Ailments\nAttacks have 15% chance to cause Bleeding\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Red Storm",
+     "stats": "+8% to Damage over Time Multiplier for Bleeding\nAttacks have 15% chance to cause Bleeding\n30% increased Physical Damage\n(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Honed Edge",
+     "stats": "Sword Attacks deal 24% increased Damage with Hits and Ailments\n6% increased Attack Speed with Swords\n20% increased Evasion Rating\n+200 to Accuracy Rating with Swords\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Kinetic Impacts",
+     "stats": "24% increased Physical Damage with Two Handed Melee Weapons\nAttacks with Two Handed Melee Weapons deal 24% increased Damage with Ailments\nOverwhelm 15% Physical Damage Reduction\n10% chance to double Stun Duration\n4% chance to deal Double Damage\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Elder Power",
+     "stats": "10% increased Wand Damage per Power Charge\n10% chance to gain a Power Charge on Kill"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Successive Detonations",
+     "stats": "10% increased Critical Strike Chance for each Mine Detonated\nRecently, up to 100%\n+4% to Critical Strike Multiplier for each Mine Detonated\nRecently, up to 40%\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Forceful Skewering",
+     "stats": "Impale Damage dealt to Enemies Impaled by you Overwhelms 10% Physical Damage Reduction\n15% chance to Impale Enemies on Hit with Attacks\n5% increased Impale Effect\n+20 to Strength\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)\n(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Azure Oil",
+     "passive": "Slaughter",
+     "stats": "25% increased Physical Damage with Axes\nAxe Attacks deal 25% increased Damage with Ailments\n8% increased Attack Speed with Axes\n10% chance to gain Onslaught for 4 seconds on Kill\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Onslaught grants 20% increased Attack, Cast, and Movement Speed)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Galvanic Hammer",
+     "stats": "10% increased Accuracy Rating with Maces or Sceptres\n30% increased Elemental Damage with Maces or Sceptres\nDamage with Weapons Penetrates 5% Elemental Resistance"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Magmatic Strikes",
+     "stats": "Gain 5% of Physical Damage as Extra Fire Damage\n20% of Physical Damage Converted to Fire Damage\n24% increased Fire Damage with Attack Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Toxic Strikes",
+     "stats": "+8% to Damage over Time Multiplier for Poison\n10% increased Poison Duration\n10% chance to Poison on Hit\n30% increased Chaos Damage with Attack Skills\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Pain Forger",
+     "stats": "60% increased Critical Strike Chance with Maces or Sceptres\n5% reduced Enemy Stun Threshold with Maces or Sceptres\n8% chance to gain a Power Charge when you Stun with Melee Damage\n(The Stun Threshold determines how much Damage can Stun something)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Sacrifice",
+     "stats": "Minions have 20% increased maximum Life\nRegenerate 1% of Life per second\nMinions Regenerate 1% of Life per second\nMinions have +10% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Entropy",
+     "stats": "23% increased Damage over Time\n10% increased Skill Effect Duration"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Grave Intentions",
+     "stats": "Minions have +20% to Chaos Resistance\nMinions have 25% chance to gain Unholy Might for 4 seconds on Kill\nMinions gain 10% of Maximum Life as Extra Maximum Energy Shield\n(Unholy Might grants 30% of Physical Damage as extra Chaos Damage)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Blast Waves",
+     "stats": "Skills used by Mines deal 30% increased Area Damage if you Detonated a Mine Recently\nSkills used by Mines have 10% increased Area of Effect\nSkills used by Mines have 10% increased Area of Effect if you Detonated a Mine Recently\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Master Fletcher",
+     "stats": "12% increased Damage with Bows\n12% increased Attack Speed with Bows\n20% increased Global Accuracy Rating\n20% increased Arrow Speed\n12% increased Damage Over Time with Bow Skills"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Bladedancer",
+     "stats": "Sword Attacks deal 24% increased Damage with Hits and Ailments\n6% increased Attack Speed with Swords\nOverwhelm 10% Physical Damage Reduction\n+1 to Melee Strike Range with Swords\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Claws of the Pride",
+     "stats": "Claw Attacks deal 25% increased Damage with Hits and Ailments\nOverwhelm 10% Physical Damage Reduction\n15% increased Attack and Cast Speed if you've used a Movement Skill Recently\n+1 to Melee Strike Range with Claws\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)\n(Recently refers to the past 4 seconds)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Burning Brutality",
+     "stats": "+8% to Fire Damage over Time Multiplier\nIgnites you inflict deal Damage 8% faster\n24% increased Fire Damage with Attack Skills\n(They will deal the same total damage over a shorter duration)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Ophidian Aim",
+     "stats": "8% increased Attack Speed with Staves\n12% increased Accuracy Rating with Staves\n30% increased Critical Strike Chance with Staves\n+150 to Accuracy Rating with Staves\nOverwhelm 12% Physical Damage Reduction\n(Warstaves are considered Staves)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Primal Manifestation",
+     "stats": "30% increased Totem Damage\n30% increased Totem Life\n30% increased Totem Duration"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Spinecruncher",
+     "stats": "28% increased Physical Damage with Maces or Sceptres\nMace or Sceptre Attacks deal 28% increased Damage with Ailments\nOverwhelm 12% Physical Damage Reduction\n50% increased Stun Duration against Enemies that are on Full Life\n10% chance to double Stun Duration\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Smashing Strikes",
+     "stats": "Staff Attacks deal 30% increased Damage with Hits and Ailments\n30% increased Critical Strike Chance with Staves\n10% chance to gain an Endurance Charge on Melee Critical Strike\n+2 to Melee Strike Range with Staves\n(Warstaves are considered Staves)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Utmost Swiftness",
+     "stats": "+40 to Dexterity\n8% increased Dexterity"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Farsight",
+     "stats": "24% increased Damage with Bows\n6% increased Attack Speed with Bows\n16% increased Accuracy Rating with Bows\nOverwhelm 10% Physical Damage Reduction\n24% increased Damage Over Time with Bow Skills\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Whirling Barrier",
+     "stats": "+6% Chance to Block Spell Damage while wielding a Staff\n20% chance to gain a Power Charge when you Block\n+6% Chance to Block Attack Damage while wielding a Staff\n(Warstaves are considered Staves)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Unstable Munitions",
+     "stats": "30% increased Trap Damage\n12% increased Area of Effect\n50% increased Trap Trigger Area of Effect"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Indigo Oil",
+     "passive": "Shocking Strikes",
+     "stats": "15% chance to Shock\n40% increased Critical Strike Chance against Shocked Enemies\n24% increased Lightning Damage with Attack Skills\n15% increased Effect of Shock\n(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "From the Shadows",
+     "stats": "Dagger Attacks deal 20% increased Damage with Hits and Ailments\n8% increased Attack Speed with Daggers\n15% increased Accuracy Rating with Daggers\n10% chance to gain Phasing for 4 seconds on Kill\n(Rune Daggers are considered Daggers)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(While you have Phasing, your movement is not blocked by Enemies)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Hatchet Master",
+     "stats": "Axe Attacks deal 28% increased Damage with Hits and Ailments\n8% increased Attack Speed with Axes\n+5 to Maximum Rage\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Clever Construction",
+     "stats": "20% increased Trap Damage\n20% increased Mine Damage\nTraps cannot be Damaged for 5 seconds after being Thrown\nMines cannot be Damaged for 5 seconds after being thrown"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Utmost Might",
+     "stats": "+40 to Strength\n8% increased Strength"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Wandslinger",
+     "stats": "25% increased Damage while wielding a Wand\n5% increased Attack Speed with Wands\nIncreases and Reductions to Spell Damage also apply to Attacks while wielding a Wand"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Bludgeon Blitz",
+     "stats": "Mace or Sceptre Attacks deal 18% increased Damage with Hits and Ailments\n8% increased Attack Speed with Maces or Sceptres\n+200 to Accuracy Rating with Maces or Sceptres\n6% increased Movement Speed if you've Hit an Enemy Recently\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Flash Freeze",
+     "stats": "24% increased Cold Damage\n20% increased Projectile Speed\n10% chance to Freeze\n20% increased Effect of Chill\n(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Flaying",
+     "stats": "Dagger Attacks deal 24% increased Damage with Hits and Ailments\n12% increased Attack Speed with Daggers\n10% increased Accuracy Rating with Daggers\n+1 to Melee Strike Range with Daggers\n(Rune Daggers are considered Daggers)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Fearsome Force",
+     "stats": "Minions deal 10% increased Damage\nMinions have 15% increased Area of Effect\nMinions have 10% increased Area of Effect if you have used a Minion Skill Recently\n+10 to Intelligence\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Redemption",
+     "stats": "12% increased Damage\nMinions have 10% increased Movement Speed\nMinions have 5% increased Attack Speed\nMinions have 5% increased Cast Speed\n20% increased Minion Accuracy Rating"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Utmost Intellect",
+     "stats": "+40 to Intelligence\n8% increased Intelligence"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Violet Oil",
+     "passive": "Enigmatic Defence",
+     "stats": "+5% Chance to Block Spell Damage while wielding a Staff\n15% increased Spell Damage while wielding a Staff\n10% chance to gain Unholy Might on block for 3 seconds\n+5% Chance to Block Attack Damage while wielding a Staff\n(Warstaves are considered Staves)\n(Unholy Might grants 30% of Physical Damage as extra Chaos Damage)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Harpooner",
+     "stats": "20% chance to Impale Enemies on Hit with Two Handed Weapons\n20% increased Effect of Impales you inflict with Two Handed Weapons on Non-Impaled Enemies\n25% increased Impale Duration\n(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Butchery",
+     "stats": "25% increased Physical Damage with Two Handed Melee Weapons\nAttacks with Two Handed Melee Weapons deal 25% increased Damage with Ailments\n5% increased Attack Speed with Two Handed Melee Weapons\n+20 to Strength\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Holy Dominion",
+     "stats": "+12% to all Elemental Resistances\n12% increased Elemental Damage\n10% chance to Freeze, Shock and Ignite\n12% increased Physical Damage\n(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)\n(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Static Blows",
+     "stats": "20% increased Shock Duration on Enemies\n40% increased Critical Strike Chance against Shocked Enemies\n30% increased Damage if you have Shocked an Enemy Recently\n20% increased Effect of Shock\n(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Escalation",
+     "stats": "15% increased Warcry Speed\n15% increased Warcry Cooldown Recovery Speed\n20% increased Damage for each time you've Warcried Recently\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Light Eater",
+     "stats": "0.8% of Spell Damage Leeched as Energy Shield\n20% increased Maximum total Recovery per second from Energy Shield Leech\n24% increased Damage while on Full Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Bannerman",
+     "stats": "15% increased Effect of Non-Curse Auras from your Skills on Enemies\nPlaced Banners also grant 30% increased Attack Damage to you and Allies"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Shaper",
+     "stats": "40% increased Mana Regeneration Rate\nRegenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Black Oil",
+     "passive": "Annihilation",
+     "stats": "50% increased Critical Strike Chance for Spells\n+15% to Critical Strike Multiplier for Spells"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Ash, Frost and Storm",
+     "stats": "30% increased Elemental Damage\n10% chance to Freeze, Shock and Ignite\n20% increased Effect of Non-Damaging Ailments\n20% reduced Effect of Non-Damaging Ailments on you\n(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)\n(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)\n(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Black Oil",
+     "passive": "Testudo",
+     "stats": "60% increased Block Recovery\nRecover 30 Life when you Block\n60% increased Defences from Equipped Shield\n+6% Chance to Block Attack Damage while holding a Shield\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Black Oil",
+     "passive": "Lightning Walker",
+     "stats": "25% increased Lightning Damage\n5% increased Cast Speed with Lightning Skills\n+15% to Lightning Resistance"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Nimbleness",
+     "stats": "6% increased Cast Speed\n+12% to Critical Strike Multiplier for Spells\n4% increased Movement Speed\n15% chance to Avoid interruption from Stuns while Casting"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Aspect of the Lynx",
+     "stats": "20% increased Attack Damage\n5% increased Movement Speed\n20% increased Critical Strike Chance\n+10 to Dexterity and Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Black Oil",
+     "passive": "Exceptional Performance",
+     "stats": "25% increased Skill Effect Duration"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Black Oil",
+     "passive": "Cleaving",
+     "stats": "20% increased Physical Damage with Axes\nAxe Attacks deal 20% increased Damage with Ailments\n30% increased Damage with Hits and Ailments against Bleeding Enemies\nBleeding you inflict deals Damage 15% faster\n+1 to Melee Strike Range with Axes\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(They will deal the same total damage over a shorter duration)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Arcane Focus",
+     "stats": "18% increased maximum Energy Shield\n10% increased Energy Shield Recharge Rate"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Black Oil",
+     "passive": "Combat Stamina",
+     "stats": "20% increased Armour\n5% increased maximum Life\nRegenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Black Oil",
+     "passive": "Will of Blades",
+     "stats": "40% increased Critical Strike Chance\n20% increased Physical Damage"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Black Oil",
+     "passive": "Divine Fury",
+     "stats": "Gain 5% of Physical Damage as Extra Fire Damage\n12% increased Elemental Damage\nFire Spells have 25% of Physical Damage Converted to Fire Damage\n12% increased Physical Damage"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Heartseeker",
+     "stats": "+30% to Critical Strike Multiplier"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Black Oil",
+     "passive": "Arcane Guarding",
+     "stats": "+6% Chance to Block Spell Damage while holding a Shield\n15% increased Spell Damage while holding a Shield\n60% increased Energy Shield from Equipped Shield\n20% increased Spell Damage if you've Blocked Recently"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Black Oil",
+     "passive": "Reflexes",
+     "stats": "+150 to Accuracy Rating\n15% increased Global Accuracy Rating\n+150 to Evasion Rating\n30% increased Evasion Rating"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Black Oil",
+     "passive": "Divine Judgement",
+     "stats": "50% increased Elemental Damage"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Black Oil",
+     "passive": "Trickery",
+     "stats": "20% increased Damage\n20% increased Critical Strike Chance\n+10 to Dexterity and Intelligence"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Black Oil",
+     "passive": "Defiance",
+     "stats": "Attack Skills deal 24% increased Damage while holding a Shield\n40% increased Defences from Equipped Shield\n+3% Chance to Block Attack Damage while holding a Shield\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Harrier",
+     "stats": "8% increased Attack Speed\n6% increased Cast Speed\n5% increased Movement Speed"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Twin Terrors",
+     "stats": "12% increased Accuracy Rating while Dual Wielding\n75% increased Attack Critical Strike Chance while Dual Wielding"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Black Oil",
+     "passive": "Enigmatic Reach",
+     "stats": "10% increased Attack Speed with Staves\n10% increased Cast Speed while wielding a Staff\n3% increased Area of Effect per Power Charge\n10% increased Area of Effect while wielding a Staff\n(Warstaves are considered Staves)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Snowforged",
+     "stats": "30% increased Fire Damage\n30% increased Cold Damage\n+10% to Fire and Cold Resistances\n30% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Black Oil",
+     "passive": "Versatile Stance",
+     "stats": "10% increased Attack Speed if youâ€™ve changed Stance Recently\n30% increased Damage while in Blood Stance\n15% increased Area of Effect while in Sand Stance\n(Recently refers to the past 4 seconds)\n(You are in Blood Stance by default)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Ambidexterity",
+     "stats": "50% increased Attack Damage with Main Hand\n20% increased Attack Speed with Off Hand\nAttack Skills deal 25% increased Damage with Ailments while Dual Wielding\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Black Oil",
+     "passive": "Warrior's Blood",
+     "stats": "Regenerate 1.8% of Life per second\n20% increased Stun Threshold\n+20 to Strength\n(The Stun Threshold determines how much Damage can Stun something)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Command of the Elements",
+     "stats": "6% increased Attack Speed while holding a Shield\n40% increased Defences from Equipped Shield\nDamage with Weapons Penetrates 4% Elemental Resistance\n24% increased Elemental Damage with Attack Skills\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Black Oil",
+     "passive": "Intensity",
+     "stats": "10% increased Area Damage\nSkills supported by Intensify have +1 to maximum Intensity"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Light of Divinity",
+     "stats": "20% increased Spell Damage\n20% increased Critical Strike Chance for Spells\n10% increased Light Radius\n+10 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Acuity",
+     "stats": "5% increased Attack Speed\n+100 to Accuracy Rating\n15% increased Global Accuracy Rating\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Finesse",
+     "stats": "8% increased Attack Speed\n15% increased Global Accuracy Rating\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Mental Rapidity",
+     "stats": "10% increased Cast Speed\n10% increased Energy Shield Recharge Rate\n20% increased Mana Regeneration Rate"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Black Oil",
+     "passive": "Forethought",
+     "stats": "20% increased maximum Mana\n10% increased Mana Cost of Skills"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Revelry",
+     "stats": "+25 to maximum Mana\n15% increased maximum Mana\n10% increased Effect of Non-Curse Auras from your Skills on Enemies"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Aggressive Bastion",
+     "stats": "30% increased Physical Attack Damage while holding a Shield\nAttack Skills deal 30% increased Damage with Ailments while holding a Shield\n5% chance to gain an Endurance Charge on Kill while holding a Shield\n+4% Chance to Block Attack Damage while holding a Shield\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Black Oil",
+     "passive": "Sanctity",
+     "stats": "20% increased Armour\n10% increased maximum Energy Shield\nRegenerate 1% of Life per second\n+10 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Essence Sap",
+     "stats": "0.6% of Attack Damage Leeched as Mana\n25% increased Maximum total Recovery per second from Mana Leech\n+2 Mana gained for each Enemy hit by your Attacks\n50% increased total Recovery per second from Mana Leech\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Black Oil",
+     "passive": "Undertaker",
+     "stats": "30% increased Damage if you have Consumed a corpse Recently\nSkills which create corpses have +2 to Maximum number of corpses allowed\nRegenerate 2% of Life per second if you've Consumed a corpse Recently\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Adamant",
+     "stats": "20% increased Armour\n+400 to Armour while affected by a Guard Skill Buff\nRegenerate 1.5% of Life per second while affected by a Guard Skill Buff"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Brand Equity",
+     "stats": "You can Cast an additional Brand\nBrand Skills have 20% increased Duration\nBrand Recall has 20% increased Cooldown Recovery Speed"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Crimson Oil",
+     "passive": "Coldhearted Calculation",
+     "stats": "12% increased Damage\n20% increased Mana Regeneration Rate\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Arcanist's Dominion",
+     "stats": "20% increased Spell Damage\n5% increased Cast Speed\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Eagle Eye",
+     "stats": "+100 to Accuracy Rating\n15% increased Global Accuracy Rating\n30% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Storm Weaver",
+     "stats": "30% increased Cold Damage\n30% increased Lightning Damage\n20% increased Mana Regeneration Rate\n20% increased Effect of Non-Damaging Ailments\n(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Berserking",
+     "stats": "6% increased Attack Speed\n+10 to Maximum Rage"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Potency of Will",
+     "stats": "25% increased Skill Effect Duration"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Coordination",
+     "stats": "10% increased Attack Speed\n8% increased Cast Speed\n+10 to Dexterity and Intelligence"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Black Oil",
+     "passive": "Graceful Assault",
+     "stats": "20% increased Attack Damage\n30% increased Evasion Rating during Onslaught\n30% increased Onslaught Effect\n10% chance to gain Onslaught for 4 seconds on Kill\n(Onslaught grants 20% increased Attack, Cast, and Movement Speed)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Brinkmanship",
+     "stats": "+2 to Melee Strike Range\n10% increased Area of Effect if you have Stunned an Enemy Recently\nMelee Skills have 10% increased Area of Effect\n+10 to Strength\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Fleetfoot",
+     "stats": "20% increased Evasion Rating\n5% increased Movement Speed\n10% increased Attack and Cast Speed if you've used a Movement Skill Recently\n20% increased Cooldown Recovery Speed of Movement Skills\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Precise Interception",
+     "stats": "Attack Skills deal 15% increased Damage while holding a Shield\n6% increased Attack Speed while holding a Shield\n60% increased Defences from Equipped Shield\n+3% Chance to Block Attack Damage while holding a Shield\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Blast Radius",
+     "stats": "10% increased Area of Effect\n20% increased Area Damage"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Destroyer",
+     "stats": "25% increased Physical Damage with Two Handed Melee Weapons\nAttacks with Two Handed Melee Weapons deal 25% increased Damage with Ailments\n5% increased Attack Speed with Two Handed Melee Weapons\n25% increased Stun Duration with Two Handed Melee Weapons on Enemies\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Divine Wrath",
+     "stats": "Gain 5% of Physical Damage as Extra Lightning Damage\n12% increased Elemental Damage\nLightning Spells have 25% of Physical Damage Converted to Lightning Damage\n12% increased Physical Damage"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "True Strike",
+     "stats": "+15% to Critical Strike Multiplier\n45% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Wrecking Ball",
+     "stats": "Attacks with Two Handed Melee Weapons deal 20% increased Damage with Hits and Ailments\n10% increased Attack Speed with Two Handed Melee Weapons\n20% increased Stun Duration with Two Handed Melee Weapons on Enemies\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Titanic Impacts",
+     "stats": "12% increased Accuracy Rating with Two Handed Melee Weapons\n40% increased Critical Strike Chance with Two Handed Melee Weapons\n+20% to Critical Strike Multiplier with Two Handed Melee Weapons"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Deflection",
+     "stats": "+4% Chance to Block Spell Damage while holding a Shield\n40% increased Defences from Equipped Shield\n+8% Chance to Block Projectile Attack Damage\n+4% Chance to Block Attack Damage while holding a Shield\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Versatility",
+     "stats": "5% increased Attack Speed\n10% increased Global Accuracy Rating\n20% increased Critical Strike Chance\n+20 to Dexterity and Intelligence"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Juggernaut",
+     "stats": "20% increased Armour\n6% increased maximum Life\n20% increased Life Recovery from Flasks"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Dervish",
+     "stats": "+3% Chance to Block Attack Damage while Dual Wielding\nAttack Skills deal 24% increased Damage while Dual Wielding\n6% increased Attack Speed while Dual Wielding"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Strong Arm",
+     "stats": "25% increased Physical Damage with One Handed Melee Weapons\nAttacks with One Handed Melee Weapons deal 25% increased Damage with Ailments\n5% increased Attack Speed with One Handed Melee Weapons\n+20 to Strength\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Sleight of Hand",
+     "stats": "Attacks with One Handed Weapons deal 30% increased Damage with Ailments\n8% increased Attack Speed with One Handed Weapons\n20% increased Damage with One Handed Weapons\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Ricochet",
+     "stats": "Projectiles deal 20% increased Damage for each time they have Chained"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Admonisher",
+     "stats": "30% increased Warcry Speed\n12% increased Warcry Cooldown Recovery Speed\nRemove an Ailment when you Warcry"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Split Shot",
+     "stats": "Projectiles have 50% chance for an additional Projectile when Forking"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Surveillance",
+     "stats": "30% increased Totem Damage\nAttacks used by Totems have 8% increased Attack Speed\nEach Totem applies 1% increased Damage taken to Enemies near it"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Amplify",
+     "stats": "10% increased Area of Effect\n20% increased Area Damage"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Dazzling Strikes",
+     "stats": "15% increased Global Accuracy Rating\n40% increased Critical Strike Chance against Blinded Enemies\n10% chance to Blind Enemies on Hit with Attacks\n(Blinded enemies have their Chance to Hit halved)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Explosive Impact",
+     "stats": "30% increased Fire Damage\n12% increased Area of Effect\n+10 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Panopticon",
+     "stats": "30% increased Totem Damage\nAttack Skills have +1 to maximum number of Summoned Ballista Totems\n50% increased Effect of Buffs granted by your Active Ancestor Totems"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Fire Walker",
+     "stats": "25% increased Fire Damage\n5% increased Cast Speed with Fire Skills\n+15% to Fire Resistance"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Blade Barrier",
+     "stats": "+5% Chance to Block Attack Damage while Dual Wielding\n50% increased Block Recovery\nAttack Skills deal 24% increased Damage while Dual Wielding"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Dark Arts",
+     "stats": "5% increased Cast Speed while Dual Wielding\n5% increased Attack and Cast Speed if you've used a Movement Skill Recently\n30% increased Mana Regeneration if you've used a Movement Skill Recently\n+10 to Dexterity and Intelligence\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Melding",
+     "stats": "10% increased maximum Energy Shield\n6% increased maximum Life"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Deep Breaths",
+     "stats": "30% increased Warcry Cooldown Recovery Speed\n20% increased total Power counted by Warcries\nWarcry Skills have 30% increased Area of Effect"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Throatseeker",
+     "stats": "+30% to Critical Strike Multiplier"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Frost Walker",
+     "stats": "25% increased Cold Damage\n5% increased Cast Speed with Cold Skills\n+15% to Cold Resistance"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Steadfast",
+     "stats": "30% increased Armour while you have Fortify\n10% increased Effect of Fortify on you\n10% increased Effect of Fortify on you while Stationary\n(Fortify grants 20% less Damage Taken from Hits)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Mysticism",
+     "stats": "+4% Chance to Block Spell Damage while Dual Wielding\n+4% Chance to Block Attack Damage while Dual Wielding\n16% increased Spell Damage while Dual Wielding\n10% chance to gain a Frenzy Charge when you Block Attack Damage\n10% chance to gain a Power Charge when you Block Spell Damage"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Ballistic Mastery",
+     "stats": "20% increased Projectile Speed\n15% increased Projectile Damage\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Serpentine Spellslinger",
+     "stats": "Enemies Poisoned by you have -5% to Chaos Resistance\nSpell Skills have +8% to Damage over Time Multiplier for Poison\n15% chance to Poison on Hit with Spell Damage\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Black Oil",
+     "passive": "Essence Extraction",
+     "stats": "25% increased Mana Regeneration Rate\n15% increased Flask Charges gained\nMana Flasks gain 1 Charge every 3 seconds\nRemove a random Elemental Ailment when you use a Mana Flask\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Retribution",
+     "stats": "14% increased Damage\nMinions deal 10% increased Damage\n5% increased Attack and Cast Speed\n+10 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Lethal Assault",
+     "stats": "18% increased Damage\n10% increased Projectile Speed\n10% increased Area of Effect"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Soul Thief",
+     "stats": "18% increased Evasion Rating\n12% increased maximum Energy Shield\n0.3% of Spell Damage Leeched as Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Sanctum of Thought",
+     "stats": "You take 20% reduced Extra Damage from Critical Strikes\n30% increased Armour\n20% reduced Effect of Curses on you"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Command of Steel",
+     "stats": "1% increased Damage per 1% Chance to Block Attack Damage\n+3% Chance to Block Attack Damage while holding a Shield"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Precision",
+     "stats": "10% increased Global Accuracy Rating\n5% increased Movement Speed\n6% increased Attack and Cast Speed\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Hired Killer",
+     "stats": "6% increased maximum Life\nRecover 2% of Life on Kill"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Retaliation",
+     "stats": "Attack Skills deal 20% increased Damage while holding a Shield\n8% increased Attack Speed while holding a Shield\n40% increased Defences from Equipped Shield\n(Defences are Armour, Evasion Rating and Energy Shield)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Righteous Army",
+     "stats": "Minions have 20% increased maximum Life\nRegenerate 1% of Life per second\nMinions deal 20% increased Damage\nMinions Regenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Longshot",
+     "stats": "25% increased Projectile Speed\n20% increased Projectile Damage\nProjectiles gain Damage as they travel farther, dealing up\nto 40% increased Damage with Hits to targets"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Ribcage Crusher",
+     "stats": "Mace or Sceptre Attacks deal 24% increased Damage with Hits and Ailments\n6% increased Attack Speed with Maces or Sceptres\n15% increased Area of Effect if you have Stunned an Enemy Recently\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Dire Torment",
+     "stats": "+20% to Damage over Time Multiplier for Ailments from Critical Strikes\n40% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Gravepact",
+     "stats": "Minions deal 15% increased Damage\nMinions have 6% increased Attack Speed\n30% increased Minion Accuracy Rating\nMinions have 4% chance to deal Double Damage"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Adjacent Animosity",
+     "stats": "10% reduced Projectile Speed\n20% increased Projectile Damage\nProjectiles deal 20% increased Damage with Hits to targets at the start\nof their movement, reducing to 0% as they travel farther"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Arcing Blows",
+     "stats": "Damage with Weapons Penetrates 8% Lightning Resistance\n30% increased Lightning Damage with Attack Skills\n10% increased Effect of Shock"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Disciple of the Unyielding",
+     "stats": "+1 to Minimum Endurance Charges\n8% chance to gain an Endurance Charge on Kill\n8% increased Damage per Endurance Charge"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Disintegration",
+     "stats": "60% increased Critical Strike Chance with Wands\n+30% to Critical Strike Multiplier with Wands\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blade Master",
+     "stats": "20% increased Physical Damage with Swords\nSword Attacks deal 20% increased Damage with Ailments\n8% increased Attack Speed with Swords\n+200 to Accuracy Rating with Swords\n+1 to Melee Strike Range with Swords\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Fangs of Frost",
+     "stats": "Damage with Weapons Penetrates 8% Cold Resistance\n30% increased Cold Damage with Attack Skills\n10% increased Effect of Chill"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Counterweight",
+     "stats": "60% increased Global Critical Strike Chance while wielding a Staff\n+30% to Global Critical Strike Multiplier while wielding a Staff\n(Warstaves are considered Staves)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Destructive Apparatus",
+     "stats": "40% increased Mine Duration\n10% increased Mine Throwing Speed\nEach Mine applies 2% reduced Damage dealt to Enemies near it, up to 10%"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Hunter's Gambit",
+     "stats": "+10% to Chaos Damage over Time Multiplier\n24% increased Damage with Bows\n10% increased Skill Effect Duration\n24% increased Damage Over Time with Bow Skills"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Soul Raker",
+     "stats": "Claw Attacks deal 20% increased Damage with Hits and Ailments\n1.2% of Attack Damage Leeched as Life\n0.8% of Attack Damage Leeched as Mana\n50% increased total Recovery per second from Life Leech\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Dirty Techniques",
+     "stats": "+10% to Damage over Time Multiplier\n20% increased Poison Duration\n20% increased Bleeding Duration\nBleeding you inflict deals Damage 5% faster\nPoisons you inflict deal Damage 5% faster\n(They will deal the same total damage over a shorter duration)\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Backstabbing",
+     "stats": "40% increased Critical Strike Chance with Daggers\n+30% to Critical Strike Multiplier with Daggers\n+40% to Critical Strike Multiplier against Enemies that are on Full Life\n30% increased Critical Strike Chance against Enemies on Full Life\n(Rune Daggers are considered Daggers)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Tempest Blast",
+     "stats": "Gain 20% of Wand Physical Damage as Extra Lightning Damage"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Winter Spirit",
+     "stats": "20% of Physical Damage Converted to Cold Damage\n16% increased Cold Damage with Attack Skills"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Silver Oil",
+     "passive": "High Explosives",
+     "stats": "30% increased Mine Duration\n30% increased Trap Trigger Area of Effect\nTrap Damage Penetrates 10% Elemental Resistances\nMine Damage Penetrates 10% Elemental Resistances"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Holy Fire",
+     "stats": "+10% to Fire Damage over Time Multiplier\n20% increased Fire Damage\n15% chance to Ignite\nIgnites you inflict deal Damage 5% faster\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)\n(They will deal the same total damage over a shorter duration)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Force Shaper",
+     "stats": "Gain 4% of Physical Damage as Extra Chaos Damage\n4% increased Attack and Cast Speed\n20% increased Physical Damage"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Shaman's Dominion",
+     "stats": "100% increased Global Critical Strike Chance if you've Summoned a Totem Recently\n+20% to Critical Strike Multiplier with Totem Skills\n50% increased Brand Critical Strike Chance\n+20% to Brand Critical Strike Multiplier\n(Recently refers to the past 4 seconds)\n(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Method to the Madness",
+     "stats": "22% increased Chaos Damage\n+1% to maximum Chaos Resistance\n+12% to Chaos Resistance\n(Maximum Resistances cannot be raised above 90%)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blade of Cunning",
+     "stats": "20% increased Physical Damage with Swords\nSword Attacks deal 20% increased Damage with Ailments\n40% increased Critical Strike Chance with Swords\n+15% to Critical Strike Multiplier with Swords\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Gladiatoral Combat",
+     "stats": "2% increased Attack Damage per 75 Armour or Evasion Rating on Shield\n+1% to Critical Strike Multiplier per 10 Maximum Energy Shield on Shield"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Searing Heat",
+     "stats": "+20% to Damage over Time Multiplier for Ignite from Critical Strikes\n45% increased Critical Strike Chance for Spells\n+20% to Critical Strike Multiplier against Burning Enemies"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Devastating Devices",
+     "stats": "50% increased Critical Strike Chance with Traps\n50% increased Critical Strike Chance with Mines\n+25% to Critical Strike Multiplier with Traps\n+25% to Critical Strike Multiplier with Mines"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Forces of Nature",
+     "stats": "Damage with Weapons Penetrates 6% Elemental Resistance\n20% increased Elemental Damage with Attack Skills"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Singular Focus",
+     "stats": "Channelling Skills have 6% increased Attack and Cast Speed\nChannelling Skills deal 15% increased Damage\n25% increased Effect of Infusion"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Corruption",
+     "stats": "25% increased Chaos Damage\n20% increased Effect of Withered\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Skull Cracking",
+     "stats": "30% increased Physical Damage with Maces or Sceptres\nMace or Sceptre Attacks deal 30% increased Damage with Ailments\n10% reduced Enemy Stun Threshold with Maces or Sceptres\nHits that Stun Enemies have Culling Strike\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(The Stun Threshold determines how much Damage can Stun something)\n(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Adder's Touch",
+     "stats": "+15% to Damage over Time Multiplier for Poison from Critical Strikes\nCritical Strikes with Daggers have a 40% chance to Poison the Enemy\n+30% to Critical Strike Multiplier with Daggers\n20% increased Damage with Poison\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)\n(Rune Daggers are considered Daggers)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Fatal Toxins",
+     "stats": "+10% to Damage over Time Multiplier for Poison\n+10% to Chaos Resistance\n10% increased Poison Duration\n30% increased Damage with Poison"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Gladiator's Perseverance",
+     "stats": "20% increased Physical Damage with One Handed Melee Weapons\nAttacks with One Handed Melee Weapons deal 20% increased Damage with Ailments\n0.6% of Physical Attack Damage Leeched as Life\n10% increased Maximum total Recovery per second from Life Leech\n30% increased Attack Damage while Leeching\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Lethality",
+     "stats": "16% increased Damage with Bows\n50% increased Critical Strike Chance with Bows\n+30% to Critical Strike Multiplier with Bows\n16% increased Damage Over Time with Bow Skills"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Feller of Foes",
+     "stats": "Axe Attacks deal 30% increased Damage with Hits and Ailments\n+40% to Critical Strike Multiplier with Axes\n+200 to Accuracy Rating with Axes\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Lucidity",
+     "stats": "40% chance to Avoid being Stunned while Channelling\nChannelling Skills deal 30% increased Damage\nChannelling Skills have -3 to Total Mana Cost"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Blacksmith's Clout",
+     "stats": "18% increased Physical Damage with Maces or Sceptres\nMace or Sceptre Attacks deal 18% increased Damage with Ailments\n40% increased Critical Strike Chance with Maces or Sceptres\n+25% to Critical Strike Multiplier with Maces or Sceptres\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "King of the Hill",
+     "stats": "16% increased Damage with Bows\n80% increased Critical Strike Chance with Bows\nKnocks Back Enemies if you get a Critical Strike with a Bow\n16% increased Damage Over Time with Bow Skills\n(Knockback pushes Enemies away when Hit)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Bloodletting",
+     "stats": "+8% to Damage over Time Multiplier for Bleeding\n40% increased Attack Damage against Bleeding Enemies\n25% increased Damage with Bleeding\nBleeding you inflict deals Damage 5% faster\n(They will deal the same total damage over a shorter duration)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Master Sapper",
+     "stats": "30% increased Trap Damage\n20% increased Trap Trigger Area of Effect\nCan have up to 2 additional Traps placed at a time\n15% chance to gain a Frenzy Charge when your Trap is triggered by an Enemy"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Charging Offensive",
+     "stats": "Channelling Skills deal 16% increased Attack Damage\nChannelling Skills have 6% increased Attack Speed\n10% chance to gain an Endurance Charge when Hit while Channelling\n10% chance to gain a Frenzy Charge when Hit while Channelling"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Serpent Stance",
+     "stats": "40% increased Global Critical Strike Chance while wielding a Staff\n+30% to Global Critical Strike Multiplier while wielding a Staff\n+5% Chance to Block Attack Damage if you've dealt a Critical Strike Recently\n(Warstaves are considered Staves)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Primeval Force",
+     "stats": "Damage with Weapons Penetrates 5% Elemental Resistance\n20% increased Elemental Damage during any Flask Effect\n20% increased Elemental Damage with Attack Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Death Attunement",
+     "stats": "Minions have 8% increased Attack Speed\nMinions have 8% increased Cast Speed\n+1 to Maximum number of Spectres\n+1 to Maximum number of Raised Zombies\n+1 to Maximum number of Skeletons"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Deadly Draw",
+     "stats": "20% increased Physical Damage with Bows\nBow Attacks have 15% chance to cause Bleeding\n30% increased Damage Over Time with Bow Skills\nBleeding you inflict deals Damage 10% faster\n(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)\n(They will deal the same total damage over a shorter duration)"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Claws of the Hawk",
+     "stats": "40% increased Critical Strike Chance with Claws\n+25% to Critical Strike Multiplier with Claws\n10% chance to Blind Enemies on Critical Strike\n(Blinded enemies have their Chance to Hit halved)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blast Cascade",
+     "stats": "+30% to Critical Strike Multiplier with Traps\n+30% to Critical Strike Multiplier with Mines\n15% chance to gain a Power Charge when your Trap is triggered by an Enemy\n10% chance to gain a Power Charge when your Mine is Detonated targeting an Enemy"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Swift Skewering",
+     "stats": "15% increased Attack Physical Damage\n5% increased Attack Speed\nImpale Damage dealt to Enemies Impaled by you Overwhelms 10% Physical Damage Reduction\n15% chance to Impale Enemies on Hit with Attacks\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)\n(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Lord of the Dead",
+     "stats": "Minions have 15% increased maximum Life\nMinions deal 15% increased Damage\n+1 to Maximum number of Raised Zombies\n+1 to Maximum number of Skeletons"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blunt Trauma",
+     "stats": "15% increased Accuracy Rating with Staves\n40% increased Critical Strike Chance with Staves\n+20% to Critical Strike Multiplier with Staves\nKnocks Back Enemies if you get a Critical Strike with a Staff\n(Warstaves are considered Staves)\n(Knockback pushes Enemies away when Hit)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Runesmith",
+     "stats": "You can Cast an additional Brand\n12% increased Cast Speed with Brand Skills\nEnemies take 5% increased Damage for each of your Brands Attached to them"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Hex Master",
+     "stats": "40% increased Area of Effect of Curse Skills\n5% increased Effect of your Curses\nCurse Skills have 80% increased Skill Effect Duration"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Black Oil",
+     "passive": "Disciple of the Forbidden",
+     "stats": "+1 to Minimum Power Charges\n8% chance to gain a Power Charge on Kill\n8% increased Damage per Power Charge"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Avatar of the Hunt",
+     "stats": "24% increased Damage with Bows\n+200 to Evasion Rating\n6% increased Movement Speed\n24% increased Damage Over Time with Bow Skills\n20% increased Cooldown Recovery Speed of Movement Skills"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Prism Weave",
+     "stats": "6% increased Attack Speed with Wands\n24% increased Elemental Damage with Wands\nDamage with Weapons Penetrates 5% Elemental Resistance"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Indomitable Army",
+     "stats": "Minions have 15% increased maximum Life\nMinions have 15% additional Physical Damage Reduction\nMinions have +15% to all Elemental Resistances\nMoving while Bleeding doesn't cause Minions to take extra Damage\n(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Fatal Blade",
+     "stats": "50% increased Critical Strike Chance with Swords\n+25% to Critical Strike Multiplier with Swords"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Clear Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Lava Lash",
+     "stats": "+8% to Fire Damage over Time Multiplier\nDamage with Weapons Penetrates 8% Fire Resistance\n30% increased Fire Damage with Attack Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Atrophy",
+     "stats": "+10% to Chaos Damage over Time Multiplier\n20% increased Chaos Damage\n4% increased Cast Speed"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Ravenous Horde",
+     "stats": "Minions have 10% increased Movement Speed\nMinions deal 20% increased Damage\nMinions have 5% increased Attack Speed\nMinions have 5% increased Cast Speed\nMinions have 10% chance to gain Onslaught for 4 seconds on Kill\n(Onslaught grants 20% increased Attack, Cast, and Movement Speed)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Sepia Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Spiritual Command",
+     "stats": "Minions have 8% increased Attack Speed\nMinions have 8% increased Cast Speed\nIncreases and Reductions to Minion Attack Speed also affect you\n20% increased Minion Accuracy Rating"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Swift Venoms",
+     "stats": "+8% to Damage over Time Multiplier for Poison\n8% increased Attack Speed\n10% chance to Poison on Hit with Attacks\n16% increased Damage with Poison\nPoisons you inflict deal Damage 5% faster\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)\n(They will deal the same total damage over a shorter duration)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Stun Mastery",
+     "stats": "10% reduced Enemy Stun Threshold\n30% increased Stun and Block Recovery\n10% chance to gain an Endurance Charge when you Stun an Enemy with a Melee Hit\n10% chance to double Stun Duration\n(The Stun Threshold determines how much Damage can Stun something)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "One with the River",
+     "stats": "30% increased Elemental Damage with Staves\nDamage with Weapons Penetrates 5% Elemental Resistance\n(Warstaves are considered Staves)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Enduring Bond",
+     "stats": "Minions deal 30% increased Damage if you've used a Minion Skill Recently\n20% increased Minion Duration\nSummoned Phantasms have 5% chance to refresh their Duration when they Hit a Unique Enemy\nSummoned Raging Spirits have 5% chance to refresh their Duration when they Hit a Unique Enemy\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Brutal Blade",
+     "stats": "+4% Chance to Block Attack Damage while Dual Wielding or holding a Shield\nSword Attacks deal 20% increased Damage with Hits and Ailments\n8% increased Attack Speed with Swords\n10% chance to gain a Frenzy Charge when you Block Attack Damage\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Amber Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Claws of the Falcon",
+     "stats": "Claw Attacks deal 25% increased Damage with Hits and Ailments\n15% increased Accuracy Rating with Claws\n+30% to Critical Strike Multiplier with Claws\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Window of Opportunity",
+     "stats": "15% reduced Skill Effect Duration\nDebuffs on you expire 15% faster"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Growth and Decay",
+     "stats": "20% increased Damage over Time\n+10% to Damage over Time Multiplier\nRegenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Disciple of the Slaughter",
+     "stats": "+1 to Minimum Frenzy Charges\n8% chance to gain a Frenzy Charge on Kill\n8% increased Damage per Frenzy Charge"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Nightstalker",
+     "stats": "Dagger Attacks deal 20% increased Damage with Hits and Ailments\n+20% to Critical Strike Multiplier with Daggers\n+150 to Accuracy Rating with Daggers\n25% increased Elusive Effect\n(Rune Daggers are considered Daggers)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Elusive initially grants 15% chance to Dodge Spell or Attack Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Volatile Mines",
+     "stats": "Can have up to 2 additional Remote Mines placed at a time\nMines have 20% increased Detonation Speed\nEach Mine applies 2% increased Damage taken to Enemies near it, up to 10%"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Verdant Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Insightfulness",
+     "stats": "10% increased maximum Energy Shield\n16% increased maximum Mana\n10% reduced Mana Cost of Skills while on Full Energy Shield\n+10 to Intelligence"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Arcane Chemistry",
+     "stats": "15% increased maximum Mana\n25% increased Mana Recovery from Flasks\n10% reduced Flask Charges used\nFlasks applied to you have 8% increased Effect"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Cleansed Thoughts",
+     "stats": "Chaos Resistance is doubled"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Influence",
+     "stats": "14% increased effect of Non-Curse Auras from your Skills"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Indigo Oil",
+     "oil_3": "Golden Oil",
+     "passive": "No Witnesses",
+     "stats": "10% chance to gain Elusive on Kill\n25% increased Elusive Effect\n(Elusive initially grants 15% chance to Dodge Spell or Attack Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart of Thunder",
+     "stats": "25% increased Lightning Damage\nDamage Penetrates 6% Lightning Resistance\n0.2% of Lightning Damage Leeched as Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Devotion",
+     "stats": "8% increased maximum Life\n3% increased effect of Non-Curse Auras from your Skills\n+20 to Strength"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Purity of Flesh",
+     "stats": "10% increased maximum Life\n+8% to Chaos Resistance"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Doom Cast",
+     "stats": "60% increased Critical Strike Chance for Spells\n+15% to Critical Strike Multiplier for Spells"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Teal Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Quick Recovery",
+     "stats": "6% increased maximum Life\n20% increased Mana Regeneration Rate\nRegenerate 0.8% of Life per second"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Crystal Skin",
+     "stats": "+5% to all Elemental Resistances\n+1% to all maximum Elemental Resistances\n15% chance to Avoid Elemental Ailments\n(Maximum Resistances cannot be raised above 90%)\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Bravery",
+     "stats": "24% increased Evasion Rating and Armour\n8% increased maximum Life"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Breath of Flames",
+     "stats": "+10% to Fire Damage over Time Multiplier\n20% increased Fire Damage\n20% increased Ignite Duration on Enemies\n20% chance to Ignite\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Fervour",
+     "stats": "+1 to Maximum Frenzy Charges"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Persistence",
+     "stats": "-10 Physical Damage taken from Hits\n-1 Physical Damage taken from Hits per Level"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Profane Chemistry",
+     "stats": "6% increased maximum Life\n30% increased Life Recovery from Flasks\nFlasks applied to you have 8% increased Effect"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart of Flame",
+     "stats": "25% increased Fire Damage\nDamage Penetrates 6% Fire Resistance\n0.2% of Fire Damage Leeched as Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Written in Blood",
+     "stats": "10% increased maximum Energy Shield\n8% increased maximum Life\n+10 to Strength\n"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Aqueous Accelerant",
+     "stats": "Flasks applied to you have 10% increased Effect\n8% increased Attack and Cast Speed during Effect of any Mana Flask\n10% increased Mana Recovery Rate during Effect of any Mana Flask"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Cruel Preparation",
+     "stats": "10% increased maximum Life\n+5% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Disemboweling",
+     "stats": "50% increased Melee Critical Strike Chance\n+25% to Melee Critical Strike Multiplier"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Azure Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Cursed Concoction",
+     "stats": "15% increased maximum Mana\n10% increased Effect of your Curses if you've spent 200 total Mana Recently\nRemove a Curse when you use a Mana Flask\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Soul Siphon",
+     "stats": "+10 to maximum Mana\n18% increased maximum Mana\n+10 Mana gained on Kill"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Arcane Potency",
+     "stats": "30% increased Critical Strike Chance for Spells\n+30% to Critical Strike Multiplier for Spells"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Breath of Lightning",
+     "stats": "20% increased Lightning Damage\n20% increased Shock Duration on Enemies\n15% chance to Shock\n20% increased Effect of Shock\n(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Vigour",
+     "stats": "+1 to Maximum Endurance Charges"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Way of the Warrior",
+     "stats": "16% increased Melee Damage\n16% increased Armour\n+16 to maximum Life\n+30 to Strength"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Hematophagy",
+     "stats": "1% of Physical Attack Damage Leeched as Life\n15% increased Maximum total Recovery per second from Life Leech\n100% increased total Recovery per second from Life Leech\n30% increased Damage while Leeching\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Druidic Rite",
+     "stats": "+15 to maximum Mana\n15% increased maximum Mana\n20% increased Flask Charges gained\n20% increased Flask Effect Duration"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart and Soul",
+     "stats": "8% increased maximum Life\n12% increased maximum Mana"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Bloodless",
+     "stats": "8% increased maximum Life\nEnemies Cannot Leech Life From you"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Violet Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Born to Fight",
+     "stats": "4% increased Melee Attack Speed\n+20 to Accuracy Rating\n26% increased Melee Physical Damage\n+20 to Strength"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart of Oak",
+     "stats": "8% increased maximum Life\n20% chance to Avoid being Stunned\n20% increased Stun and Block Recovery\nRegenerate 1% of Life per second"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Champion of the Cause",
+     "stats": "12% increased Area of Effect of Aura Skills\n4% reduced Mana Reserved\n6% increased effect of Non-Curse Auras from your Skills"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Survivalist",
+     "stats": "24% increased Evasion Rating\n+8% to all Elemental Resistances\n+1% to maximum Cold Resistance\n+3% chance to Evade Attack Hits\n(Maximum Resistances cannot be raised above 90%)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Overcharge",
+     "stats": "+1 to Maximum Power Charges"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Overcharged",
+     "stats": "8% chance to gain a Power, Frenzy or Endurance Charge on Kill"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Master of the Arena",
+     "stats": "Regenerate 1% of Life per second\n8% increased Melee Physical Damage\n+2 to Melee Strike Range\n+20 to Strength\n(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Mystic Talents",
+     "stats": "16% increased Spell Damage\n+14 to maximum Energy Shield\n25% increased Mana Regeneration Rate\n+30 to Intelligence"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Fingers of Frost",
+     "stats": "25% increased Cold Damage\nEnemies Become Chilled as they Unfreeze\n15% chance to Freeze Enemies which are Chilled\n20% increased Effect of Chill\n(Chill reduces Enemy Action Speed by 10% for 2 seconds)\n(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Divine Fervour",
+     "stats": "25% increased Melee Critical Strike Chance\nDamage with Weapons Penetrates 3% Elemental Resistance\n24% increased Elemental Damage with Attack Skills\n+10 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Herbalism",
+     "stats": "10% increased maximum Life\n20% increased Life Recovery from Flasks\n20% increased Flask Recovery rate"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blood Siphon",
+     "stats": "10% increased maximum Life\n+10 Life gained on Kill\n+20 to Strength"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Crackling Speed",
+     "stats": "16% increased Lightning Damage\n6% increased Cast Speed\n10% increased Effect of Shock"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Leadership",
+     "stats": "30% increased Area of Effect of Aura Skills\n6% increased effect of Non-Curse Auras from your Skills"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Crimson Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Arcane Expanse",
+     "stats": "15% increased Spell Damage\n10% increased Area of Effect if you've Killed Recently\nSpell Skills have 10% increased Area of Effect\n+10 to Intelligence\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Endurance",
+     "stats": "+1 to Maximum Endurance Charges"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Faith and Steel",
+     "stats": "20% increased Armour\n10% increased maximum Energy Shield\n10% increased Energy Shield Recharge Rate\n+8% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Measured Fury",
+     "stats": "Warcries Exert 1 additional Attack"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Deadly Inclinations",
+     "stats": "18% increased Evasion Rating\n+12 to maximum Life\n16% increased Projectile Damage\n+30 to Dexterity"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Hardened Scars",
+     "stats": "15% increased Life Recovery from Flasks\nYou have Fortify during Effect of any Life Flask"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Discord Artisan",
+     "stats": "Herald Skills have 20% increased Area of Effect\n15% increased Damage for each Herald affecting you\n10% reduced Mana Reservation of Herald Skills"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Rampart",
+     "stats": "8% increased Attack Speed while you have Fortify\n5% increased Movement Speed while you have Fortify\n10% increased Effect of Fortify on you\n20% increased Attack Damage while you have Fortify\n(Fortify grants 20% less Damage Taken from Hits)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Inexorable",
+     "stats": "20% increased Armour\nRegenerate 0.3% of Life per second per Endurance Charge\n15% chance to gain an Endurance Charge when you are Hit\n30% increased Armour while stationary"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Stamina",
+     "stats": "+1 to Maximum Endurance Charges"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Arcane Capacitor",
+     "stats": "15% increased maximum Mana\n10% increased Effect of Arcane Surge on you per\n200 Mana spent Recently, up to 50%\n10% chance to gain Arcane Surge when you Kill an Enemy\n(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)\n(Recently refers to the past 4 seconds)"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Opalescent Oil",
+     "passive": "Tireless",
+     "stats": "8% increased maximum Life\n6% reduced Mana Cost of Skills"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Arcane Swiftness",
+     "stats": "5% increased Cast Speed while holding a Shield\n5% increased Spell Damage per 5% Chance to Block Attack Damage\n20% chance to Avoid Elemental Ailments while holding a Shield\n20% chance to Avoid being Stunned while holding a Shield\n+3% Chance to Block Attack Damage while holding a Shield"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Stabbing Thirst",
+     "stats": "Dagger Attacks deal 24% increased Damage with Hits and Ailments\n6% increased Attack Speed with Daggers\n0.5% of Attack Damage Leeched as Life\n0.5% of Attack Damage Leeched as Mana\n(Rune Daggers are considered Daggers)\n(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)\n(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Savagery",
+     "stats": "+1 to Maximum Frenzy Charges"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Mana Flows",
+     "stats": "16% increased maximum Mana\n30% increased Mana Regeneration Rate\n+20 to Intelligence"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Primal Spirit",
+     "stats": "15% increased maximum Mana\n20% increased Mana Regeneration Rate\n20% increased Flask Charges gained\n+20 to Strength and Intelligence"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Art of the Gladiator",
+     "stats": "10% increased Attack Speed\n10% increased Global Accuracy Rating\nIgnore all Movement Penalties from Armour\n+20 to Dexterity"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Instability",
+     "stats": "+1 to Maximum Power Charges"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Arcane Will",
+     "stats": "20% increased maximum Mana\nRegenerate 3 Mana per second\n20% increased Mana Recovery from Flasks\nGain 3% of Maximum Mana as Extra Maximum Energy Shield"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Watchtowers",
+     "stats": "24% increased Totem Damage\nAttack Skills have +1 to maximum number of Summoned Ballista Totems\n1% increased Movement Speed per Summoned Totem\nTotems' Action Speed cannot be modified to below base value"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Foresight",
+     "stats": "+20 to maximum Energy Shield\n14% increased maximum Energy Shield\n10% increased Energy Shield Recharge Rate"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Breath of Rime",
+     "stats": "+10% to Cold Damage over Time Multiplier\n20% increased Cold Damage\n20% increased Freeze Duration on Enemies\n10% chance to Freeze\n20% increased Effect of Chill\n(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Lust for Carnage",
+     "stats": "12% increased Attack Speed\n1.2% of Physical Attack Damage Leeched as Life\n60% increased total Recovery per second from Life Leech\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Frenetic",
+     "stats": "+1 to Maximum Frenzy Charges"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Master of Force",
+     "stats": "Overwhelm 10% Physical Damage Reduction\n+30 to Strength\n30% increased Physical Damage\n(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Piercing Shots",
+     "stats": "Projectiles Pierce 2 additional Targets"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Thick Skin",
+     "stats": "10% increased maximum Life\n8% chance to Avoid Elemental Ailments\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Dismembering",
+     "stats": "40% increased Melee Critical Strike Chance\n+20% to Melee Critical Strike Multiplier\n20% chance to Maim Enemies on Critical Strike with Attacks\n(Maimed enemies have 30% reduced Movement Speed)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Infused",
+     "stats": "+1 to Maximum Power Charges"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart of Ice",
+     "stats": "25% increased Cold Damage\nDamage Penetrates 6% Cold Resistance\n0.2% of Cold Damage Leeched as Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Black Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Swagger",
+     "stats": "+5% Chance to Block Attack Damage while Dual Wielding\nAttack Skills deal 20% increased Damage while Dual Wielding\n15% chance to gain an Endurance Charge when you Block\n15% chance to gain a Frenzy Charge when you Block"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Blood Drinker",
+     "stats": "8% increased maximum Life\n0.4% of Attack Damage Leeched as Life\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Vitality Void",
+     "stats": "0.8% of Attack Damage Leeched as Life\n15% increased Maximum total Recovery per second from Life Leech\n60% increased total Recovery per second from Life Leech\n(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Natural Authority",
+     "stats": "Enemies Taunted by your Warcries take 5% increased Damage\nWarcries Debilitate Enemies for 1 second\n15% increased Warcry Buff Effect\n(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)\n(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage)"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Ethereal Feast",
+     "stats": "0.6% of Spell Damage Leeched as Energy Shield\n30% increased Maximum total Recovery per second from Energy Shield Leech\n6% increased Attack and Cast Speed while Leeching Energy Shield\n(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Resourcefulness",
+     "stats": "15% increased Evasion Rating\n10% increased maximum Energy Shield\n5% increased maximum Life\nRegenerate 0.5% of Life per second"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Essence Surge",
+     "stats": "+30 to maximum Energy Shield\n15% faster start of Energy Shield Recharge\n10% increased Energy Shield Recharge Rate"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Golem Commander",
+     "stats": "20% increased Damage while you have a Summoned Golem\n30% increased Effect of Buffs granted by your Golems\nGolems have 15% increased Maximum Life\n+1 to maximum number of Golems"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Discipline and Training",
+     "stats": "+30 to maximum Life\n10% increased maximum Life"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Assassination",
+     "stats": "+25% to Critical Strike Multiplier\n25% increased Critical Strike Chance"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Heart of the Warrior",
+     "stats": "+20 to maximum Life\n10% increased maximum Life\n+10 to Strength"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Void Barrier",
+     "stats": "15% increased Evasion Rating\n10% increased maximum Energy Shield\n10% increased Energy Shield Recharge Rate\n+8% to all Elemental Resistances"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Skittering Runes",
+     "stats": "15% increased Effect of your Curses"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Opalescent Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Barbarism",
+     "stats": "6% increased maximum Life\n+1% to maximum Fire Resistance\n+8% to Fire Resistance\n(Maximum Resistances cannot be raised above 90%)"
+    },
+    {
+     "oil_1": "Clear Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Soul of Steel",
+     "stats": "+150 to Armour\n30% increased Armour\n+1% to all maximum Elemental Resistances\n(Maximum Resistances cannot be raised above 90%)"
+    },
+    {
+     "oil_1": "Sepia Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Thunderous Salvos",
+     "stats": "30% increased Critical Strike Chance for Spells\nSkills supported by Unleash have +1 to maximum number of Seals"
+    },
+    {
+     "oil_1": "Amber Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Vengeant Cascade",
+     "stats": "15% increased Projectile Speed\nAttack Projectiles Return to you from final Target\nReturning Projectiles Pierce all Targets"
+    },
+    {
+     "oil_1": "Indigo Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Anointed Flesh",
+     "stats": "+5% to all Elemental Resistances\n+1% to all maximum Elemental Resistances\n15% reduced Elemental Ailment Duration on you\n15% reduced Effect of Non-Damaging Ailments on you\n(Maximum Resistances cannot be raised above 90%)\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)\n(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
+    },
+    {
+     "oil_1": "Verdant Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Unnatural Calm",
+     "stats": "18% increased maximum Energy Shield\n15% increased Energy Shield Recharge Rate\n+1% to maximum Lightning Resistance\n(Maximum Resistances cannot be raised above 90%)"
+    },
+    {
+     "oil_1": "Teal Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Golem's Blood",
+     "stats": "10% increased maximum Life\nRegenerate 1.6% of Life per second"
+    },
+    {
+     "oil_1": "Azure Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Tranquility",
+     "stats": "5% increased maximum Energy Shield\nTransfiguration of Soul\n(Increases and Reductions to Maximum Energy Shield\nalso apply to Spell Damage at 30% of their value)"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Revenge of the Hunted",
+     "stats": "12% increased Damage\n20% increased Evasion Rating\n8% increased maximum Life"
+    },
+    {
+     "oil_1": "Violet Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Aspect of Stone",
+     "stats": "20% chance to Avoid Physical Damage from Hits\n(No chance to avoid damage can be higher than 75%)"
+    },
+    {
+     "oil_1": "Crimson Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Tenacity",
+     "stats": "5% increased maximum Life\nTransfiguration of Body\n(Increases and Reductions to Maximum Life also apply to Attack Damage at 30% of their value)"
+    },
+    {
+     "oil_1": "Silver Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Silver Oil",
+     "passive": "Sovereignty",
+     "stats": "6% reduced Mana Reserved\n10% increased effect of Non-Curse Auras from your Skills"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Tribal Fury",
+     "stats": "Strike Skills target 1 additional nearby Enemy"
+    },
+    {
+     "oil_1": "Black Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Crusader",
+     "stats": "8% increased maximum Mana\nTransfiguration of Mind\n(Increases and Reductions to Maximum Mana also apply to Damage at 30% of their value)"
+    },
+    {
+     "oil_1": "Silver Oil",
+     "oil_2": "Silver Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Spiritual Aid",
+     "stats": "20% increased Global Accuracy Rating\nIncreases and Reductions to Minion Damage also affect you\n20% increased Minion Accuracy Rating"
+    },
+    {
+     "oil_1": "Opalescent Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Charisma",
+     "stats": "8% reduced Mana Reserved\n6% increased effect of Non-Curse Auras from your Skills"
+    },
+    {
+     "oil_1": "Silver Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Constitution",
+     "stats": "+20 to maximum Life\n14% increased maximum Life"
+    },
+    {
+     "oil_1": "Golden Oil",
+     "oil_2": "Golden Oil",
+     "oil_3": "Golden Oil",
+     "passive": "Whispers of Doom",
+     "stats": "You can apply an additional Curse"
+    }
+   ]
